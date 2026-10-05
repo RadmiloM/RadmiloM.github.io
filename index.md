@@ -19,4 +19,5 @@
     ldclient.on("change:" + flagName, function(newVal, prevVal) {
         document.getElementById("preview").style.display = newVal ? "block" : "none";
     } )
-    </script>
+
+</script>
